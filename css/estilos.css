@@ -22,13 +22,15 @@ li{
 
 .i1{
 	background-color: red;
-	float: right;
+	float: left;
 }
 
 .i2{
 	background-color: purple;
+	float: left;
 }
 
 .i3{
 	background-color: orange;
+	float: left;
 }
