@@ -14,25 +14,3 @@ ul{
 li{
 
 }
-
-.i1, .i2, .i3{
-	width: 200px;
-	height: 200px;
-}
-
-.i1{
-	background-color: red;
-
-}
-
-.i2{
-	background-color: purple;
-	position: relative;
-	top: 40px;
-	left: 40px;
-}
-
-.i3{
-	background-color: orange;
-
-}
